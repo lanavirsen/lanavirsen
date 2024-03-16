@@ -1,6 +1,24 @@
-Hello, I'm Lana - Data Analyst with a master's degree in Mechanical Engineering, relocated to Sweden in 2021.
+**Hello, I'm Lana** - Data Analyst with a master's degree in Mechanical Engineering, relocated to Sweden in 2021.
 
-My top skills are Python and its data-related libraries (pandas, NumPy, scikit-learn, Matplotlib, seaborn), and SQL.
+### My top skills
+- Data analysis (Python for deeper analysis, otherwise Excel / Google Sheets)
+- Data cleaning (Python)
+- Data visualization (Python, Power BI, Excel / Google Sheets)
+- Querying (SQL)
+- Basic machine learning (Python)
+
+### Tools
+- Python with its data-related libraries:
+  - pandas
+  - NumPy
+  - scikit-learn
+  - Matplotlib
+  - seaborn
+- SQL
+- Excel / Google Sheets
+- Power BI
+
+
 
 <!--
 **lanavirsen/lanavirsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
