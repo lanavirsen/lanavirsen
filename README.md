@@ -19,6 +19,8 @@
 - Excel / Google Sheets
 - Power BI / Tableau
 
+### Projects
+- [:fuelpump: Iowa Motor Fuels Sales Python Project](https://github.com/lanavirsen/Iowa-Motor-Fuel-Sales)
 
 
 <!--
