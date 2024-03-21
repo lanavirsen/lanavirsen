@@ -1,22 +1,23 @@
 **Hello, I'm Lana** - Data Analyst with a master's degree in Mechanical Engineering, relocated to Sweden in 2021.
 
 ### My top skills
-- Data analysis (Python for deeper analysis, otherwise Excel / Google Sheets)
-- Data cleaning (Python)
-- Data visualization (Python, Power BI, Excel / Google Sheets)
-- Querying (SQL)
-- Basic machine learning (Python)
+- Querying
+- Data Cleaning
+- Exploratory Data Analysis
+- Advanced Data Analysis
+- Data Visualization
+- Basic Machine Learning
 
 ### Tools
+- SQL
 - Python with its data-related libraries:
   - pandas
   - NumPy
   - scikit-learn
   - Matplotlib
   - seaborn
-- SQL
 - Excel / Google Sheets
-- Power BI
+- Power BI / Tableau
 
 
 
