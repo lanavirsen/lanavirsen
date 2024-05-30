@@ -21,6 +21,7 @@
 
 ### Projects
 - [:fuelpump: Iowa Motor Fuels Sales Python Project](https://github.com/lanavirsen/Iowa-Motor-Fuel-Sales)
+- [:arrows_counterclockwise: Google Web Analytics Data Pipeline Project](https://github.com/lanavirsen/Google-Web-Analytics-Data-Pipeline/tree/main)
 
 
 <!--
