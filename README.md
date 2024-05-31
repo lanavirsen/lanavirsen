@@ -7,6 +7,7 @@
 - Advanced Data Analysis
 - Data Visualization
 - Basic Machine Learning
+- Automation
 
 ### Tools
 - SQL
@@ -20,9 +21,11 @@
 - Power BI / Tableau
 
 ### Projects
-- [:fuelpump: Iowa Motor Fuels Sales Python Project](https://github.com/lanavirsen/Iowa-Motor-Fuel-Sales)
-- [:arrows_counterclockwise: Google Web Analytics Data Pipeline Project](https://github.com/lanavirsen/Google-Web-Analytics-Data-Pipeline/tree/main)
 
+| Project link | Completion Date | Tools | Techniques | Project Description |
+|---|---|---|---|---|
+| :arrows_counterclockwise: [Google Web Analytics Data Pipeline](https://github.com/lanavirsen/Google-Web-Analytics-Data-Pipeline/tree/main) | May 2024 | Python, APIs, OAuth2.0 | Fetching and writing data via APIs, data transformation, logging, automating and scheduling Python script | Automated web analytics data pipeline for streamlined reporting. |
+| :fuelpump: [Iowa Motor Fuels Sales](https://github.com/lanavirsen/Iowa-Motor-Fuel-Sales) | March 2024 | Python | Data cleaning, EDA, trend analysis, correlation analysis, prediction analysis (linear regression), data visualization | Analysis of Iowa's fuel sales trends and biofuel adoption. |
 
 <!--
 **lanavirsen/lanavirsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
