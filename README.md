@@ -10,13 +10,13 @@
 - Automation
 
 ### Tools
-- SQL
 - Python with its data-related libraries:
   - pandas
   - NumPy
   - scikit-learn
   - Matplotlib
   - seaborn
+- SQL
 - Excel / Google Sheets
 - Power BI / Tableau
 
