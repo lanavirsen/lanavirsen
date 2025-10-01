@@ -1,26 +1,27 @@
-**Hello, I'm Lana** - Data Analyst with a master's degree in Mechanical Engineering, relocated to Sweden in 2021.
+# Hi, I'm Lana
 
-### My top skills
-- Querying
-- Data Cleaning
-- Exploratory Data Analysis
-- Advanced Data Analysis
-- Data Visualization
-- Basic Machine Learning
-- Automation
+I have a background in **Data Analysis** (with a Master's in Mechanical Engineering) and am currently studying **Backend Development with Cloud specialization** at NBI/Handelsakademin (2025–2027) in Gothenburg, Sweden.  
 
-### Tools
-- Python, and its data-related libraries:
-  - pandas
-  - NumPy
-  - scikit-learn
-  - Matplotlib
-  - seaborn
-- SQL
-- Power BI / Tableau
-- Excel / Google Sheets
+---
 
-### Projects
+### 🔧 Technical Skills
+
+**Data & Automation**  
+- Python scripting & automation  
+- Workflow automation (APIs, Power Automate, Google integrations)  
+- Data querying & transformation  
+- Data visualization & dashboards  
+- Exploratory & advanced data analysis  
+
+**Backend & Cloud (in progress at YH)**  
+- C# / .NET (Object-Oriented Programming, Web Applications)  
+- Databases (SQL, relational design, queries)  
+- Agile & CI/CD practices (GitHub Actions, Git)  
+- Cloud fundamentals (Azure, containerization, serverless – upcoming modules)
+
+---
+
+### Projects in Data
 
 | Project link | Completion Date | Tools | Techniques | Project Description |
 |---|---|---|---|---|
