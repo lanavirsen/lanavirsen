@@ -1,6 +1,6 @@
 # Hi, I'm Lana
 
-Backend Developer student (Cloud) at NBI/Handelsakademin in Gothenburg, Sweden. Focused on .NET backend systems, APIs, and cloud deployment.
+Backend Developer student (Cloud track) at NBI/Handelsakademin in Gothenburg, Sweden. Focused on .NET backend systems, APIs, and cloud deployment.
 
 Previously worked with data automation and analysis; background in engineering (MSc Mechanical Engineering).
 
